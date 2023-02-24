@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Space Mono', monospace;;
+}
+
+p {
+    color: purple;
+    line-height: 150%;
+    Text-align: left;
+    Font-size: 12px;
+}
+
+h2 {
+    color: green;
+    font-weight: bold;
+}
+
+.oList {
+    font-style: italic;
+}
+
+#link {
+    font-style: italic;
+}
+
+img {
+    border: 5px solid #555;
+    margin: 15px;
+    float: right;
+    margin: 15px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+div {
+    width: 100%;
+    padding: 10px 0 10px 25px; 
+    border: 15px blue;
+    background-color: darkgray;
+    text-align:center;
+    font-size: 1.5em;
+}
+
+h1 {
+    color: darkblue;
+}
+
+#image {
+    
+}
